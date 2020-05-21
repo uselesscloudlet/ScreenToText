@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenToText", "ScreenToText\ScreenToText.csproj", "{35DEECC6-E8B2-440D-BC6E-CD3F08B048B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DEECC6-E8B2-440D-BC6E-CD3F08B048B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DEECC6-E8B2-440D-BC6E-CD3F08B048B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DEECC6-E8B2-440D-BC6E-CD3F08B048B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DEECC6-E8B2-440D-BC6E-CD3F08B048B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3150A80F-22D7-4DC0-AAD1-E55ED67E642A}
+	EndGlobalSection
+EndGlobal
